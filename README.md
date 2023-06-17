@@ -4,7 +4,9 @@ Tubes Mata Kuliah Strategi Algoritma
 
 Kelompok 7
 Anggota : 
+
 Dzamir Akmal (1301213096)
+
 Farhan Faturahman (1301213188)
 
 Panduan Penggunaan Code Program

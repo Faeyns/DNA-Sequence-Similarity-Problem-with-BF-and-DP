@@ -1,5 +1,11 @@
 # DNA-Sequence-Similarity-Problem-with-BF-and-DP
 Solving Project about "DNA Sequence Similarity Problem" with Brute Force and Dynamic Programming
+Tubes Mata Kuliah Strategi Algoritma
+
+Kelompok 7
+Anggota : 
+Dzamir Akmal (1301213096)
+Farhan Faturahman (1301213188)
 
 Panduan Penggunaan Code Program
 Terdapat dua program dengan algoritma brute force dan dynamic programming

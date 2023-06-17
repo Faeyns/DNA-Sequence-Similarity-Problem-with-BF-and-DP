@@ -10,3 +10,9 @@ Contoh :
 ![contoh penggunaan](https://github.com/Faeyns/DNA-Sequence-Similarity-Problem-with-BF-and-DP/assets/107524460/d0186a29-3d6d-4242-acc9-fa1a9a0d73b5)
 
 Temukan line kode tersebut dalam program, lalu ubah kedua rangkaian DNA tersebut sesuai dengan keinginan.
+Output akan mengeluarkan
+1. Kedua rangkaian DNA tersebut
+2. Persentase kesamaan kedua DNA tersebut.
+3. Match_count dari kedua DNA tersebut.
+4. Total_check dari kedua DNA tersebut.
+5. Waktu running time dari program tersebut.
